@@ -2,6 +2,11 @@
 
 ## react-native-picker-android
 
+###fork from [https://github.com/beefe/react-native-picker](https://github.com/beefe/react-native-picker)
+###目前项目使用react-native@0.42.0,在使用此组件的时候会出现重影，fork此代码以修复重影
+![example](./doc/shadow.png)
+
+
 PickerAndroid has PickerIOS interface in pure javascript
 
 ### Warn
