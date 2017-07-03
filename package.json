@@ -1,30 +1,27 @@
 {
-  "name": "react-native-picker-android",
-  "version": "1.0.3",
-  "description": "react-native-picker-android",
+  "name": "jianghai-react-native-picker-android",
+  "version": "1.0.0",
+  "description": "react-native-picker-android, forked from jrwm/react-native-picker-android",
   "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beefe/react-native-picker-android.git"
+    "url": "git+https://github.com/MarsAndHeart/react-native-picker-android.git"
   },
   "keywords": [
     "react-native",
     "android",
     "picker"
   ],
-  "author": {
-    "name": "jianghai",
-    "email": "marsandheart@gmail.com"
-  },
-  "engines": {
-    "node": ">=4"
-  },
+  "author": "jianghai",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beefe/react-native-picker-android/issues"
+    "url": "https://github.com/MarsAndHeart/react-native-picker-android/issues"
   },
-  "homepage": "https://github.com/beefe/react-native-picker-android#readme"
+  "homepage": "https://github.com/MarsAndHeart/react-native-picker-android#readme"
 }
